@@ -1,0 +1,27 @@
+.heading
+{
+    margin:0;
+    width:100%;
+    font-size:23px;
+}
+
+.note
+{
+    font-size:18px;
+    color:white;
+}
+
+body
+{
+    background-size:cover;
+}
+
+.heading{
+    background-color:indianred;
+}
+
+canvas{
+    border:5px solid grey;
+    border-radius:20px;
+    box-shadow:5px 5px 5px grey;
+}
